@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yeabsira Dereje</h1>
-<h3 align="center">A dedicated and proficient full-stack developer hailing from Ethiopia.</h3>
+<h3 align="center">A solution-oriented computer science graduate with a cumulative GPA of 3.77, adeptly transitioning into the realm of full-stack development, where I merge theoretical knowledge with practical skills to architect comprehensive solutions across the digital spectrum.</h3>
 
 - 🔭 I’m currently working as a full-stack developer **for KTS at Purpose Black Ethiopia**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yeab149@gmail.com**
 
-- ⚡ Fun fact **As a full-stack developer, I've journeyed through the digital landscape, crafting intricate web solutions from the front-end allure to the back-end wizardry, painting the canvas of code with passion and precision.**
+- ⚡ Fun fact **As a full stack developer, I'm basically a digital Swiss Army knife, wielding coding skills that can slice through problems and build solutions with finesse. 💻🔧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
