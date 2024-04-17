@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a full-stack developer **for KTS at Purpose Black Ethiopia**
 
-- 🌱 I’m currently learning **Typescript, Angular, Graphql and view**
+- 🌱 I’m currently learning **Typescript, Angular, Graphql and vue**
 
 - 💬 Ask me about **react, next and node**
 
