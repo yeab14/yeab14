@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yeabsira Dereje</h1>
-<h3 align="center">A solution-oriented computer science graduate with a cumulative GPA of 3.77, adeptly transitioning into the realm of full-stack development, where I merge theoretical knowledge with practical skills to architect comprehensive solutions across the digital spectrum.</h3>
+<h3 align="center">I’ve seemlessly transitioned to the professional arena, where I continue to excel at Kegebrew Technology Solution in Purpose Black Ethiopia. Alongside my distinguished academic achievement, earning a prestigious distinction certificate from Unity University with a CGPA of 3.77, I leverage React and Next Js to craft captivating frontend experiences. on the backend, I orchestrate robust solutions using Nest js and GraphQL. My commitment to continous learning, coupled with my determination and passion for innovation, propels me to undetake huge projects in dynamic world of Environment.</h3>
 
 - 🔭 I’m currently working as a full-stack developer **for KTS at Purpose Black Ethiopia**
 
