@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **as a full-stack developer for KTS at Purpose Black Ethiopia**
 
-- 🌱 I’m currently learning ** Angular, vue.js, Golang and Docker**
+- 🌱 I’m currently learning **Angular, vue.js, Golang and Docker**
 
 - 👨‍💻 All of my projects are available at [https://yeab-porfolio-xxjr.vercel.app/](https://yeab-porfolio-xxjr.vercel.app/)
 
