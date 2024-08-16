@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yeab-porfolio-xxjr.vercel.app/](https://yeab-porfolio-xxjr.vercel.app/)
 
-- 💬 Ask me about **react, nextjs, node, nestjs and Graphql**
+- 💬 Ask me about **react, nextjs, node, nnestjs and Graphql**
 
 - 📫 How to reach me **yeab149@gmail.com**
 
