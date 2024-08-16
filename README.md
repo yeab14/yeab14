@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeabsira Dereje</h1>
-<h3 align="center">I'm a Certified Software Developer at Kegebrew Technology Solution, specializing in React, Next.js, Nest.js, FastAPI, and GraphQL. Graduated with very great distinction (CGPA 3.77) from Unity University, driven by a passion for innovation and delivering top-tier results.</h3>
+<h3 align="center">I'm a certified Software Developer at Kegebrew Technology Solution, skilled in creating dynamic frontends with React and Next.js, and powerful backends using Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeab14" alt="yeab14" /></a> </p>
 
