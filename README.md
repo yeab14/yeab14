@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kvTPXdLVf_RYK7cG8Rwtuo2XmXLbXDh6/view?usp=drive_link](https://drive.google.com/file/d/1kvTPXdLVf_RYK7cG8Rwtuo2XmXLbXDh6/view?usp=drive_link)
 
-- ⚡ Fun fact **As a full stack developer, I'm basically a digital Swiss Army knife, wielding coding skills that can slice through problems and build solutions with finesse. 💻🔧**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/yeab14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yeab14" height="30" width="40" /></a>
