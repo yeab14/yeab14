@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yeab149@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kvTPXdLVf_RYK7cG8Rwtuo2XmXLbXDh6/view?usp=drive_link](https://drive.google.com/file/d/1kvTPXdLVf_RYK7cG8Rwtuo2XmXLbXDh6/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/10_CCHpDSwGIEGG_6X3UecsCh4J3E09Ce/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
