@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **as a full-stack developer for AWO Technology at Enter Ethiopia**
 
-- 🌱 I’m currently learning **Typescript, Angular, vue.js and Golang**
+- 🌱 I’m currently learning **vue.js and Springboot**
 
 - 👨‍💻 All of my projects are available at [https://yeab-porfolio-xxjr.vercel.app/](https://yeab-porfolio-xxjr.vercel.app/)
 
