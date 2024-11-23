@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yeabsira Dereje</h1>
+<h1 align="center">Hey 👋, I'm Yeabsira Dereje</h1>
 <h3 align="center">I'm a certified Software Developer at AWO Technology, skilled in creating dynamic frontends with React and Next.js, and powerful backends using Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.</h3>
 
 
