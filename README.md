@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Yeabsira Dereje</h1>
-<h3 align="center">I'm a certified Software Developer at AWO Technology, skilled in creating dynamic frontends with React and Next.js, and powerful backends using Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.</h3>
+<h3 align="center">I'm a certified Software Developer at AWO Technology, skilled in creating dynamic frontends with React, Next.js and Remix, and powerful backends using Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeab14" alt="yeab14" /></a> </p>
