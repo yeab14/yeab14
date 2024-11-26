@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeab14" alt="yeab14" /></a> </p>
 
-- 🔭 I’m currently working as **as a full-stack developer for AWO Technology at Enter Ethiopia**
+- 🔭 I’m currently working as **as a full-stack developer for AWO Technology**
 
 - 🌱 I’m currently learning **vue.js and Springboot**
 
