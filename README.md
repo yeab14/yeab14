@@ -12,7 +12,11 @@ I'm a Full-Stack Engineer at Inspur Group, skilled in creating dynamic frontends
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=yeab14&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
  <img src="https://github-readme-streak-stats.herokuapp.com?username=yeab14" alt="GitHub Streak" /></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?username=yeab14" alt="GitHub Streak" /></a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeab14&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
