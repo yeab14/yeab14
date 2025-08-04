@@ -1,5 +1,5 @@
 # Hey 👋, I'm Yeabsira Dereje:
-I'm a Full-Stack Engineer at Inspur Group, skilled in creating dynamic frontends with Vue.js, React, Next.js and Remix, and powerful backends using Java-SpringBoot, Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.
+I'm a Software Engineer at Inspur Group, skilled in creating dynamic frontends with Vue.js, React, Next.js and Remix, and powerful backends using Java-SpringBoot, Nest.js, FastAPI, and GraphQL. A great distinction graduate from Unity University (CGPA 3.77), I'm driven by a passion for innovation and delivering top-tier results.
 
 
 # 💻 My technical skillset encompasses:
