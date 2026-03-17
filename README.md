@@ -1,4 +1,4 @@
-# Hey 👋, I'm Yeabsira Dereje:
+# Hey, I'm Yeabsira Dereje:
 I'm a Backend Software Engineer specializing in Spring Boot and NestJS . I build scalable, secure APIs and backend systems with a strong focus on clean architecture, performance, and maintainability.
 
 
