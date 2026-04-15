@@ -2,7 +2,7 @@
 <h3 align="left">I'm a Backend Software Engineer specializing in Spring Boot and NestJS . I build scalable, secure APIs and backend systems with a strong focus on clean architecture, performance, and maintainability.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeab14" alt="yeab14" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
